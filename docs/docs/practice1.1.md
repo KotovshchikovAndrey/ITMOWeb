@@ -1,6 +1,6 @@
 # Практика 1.1. Создание базового приложения на FastAPI
 
-#### [Ссылка](https://)
+#### [Ссылка](https://github.com/KotovshchikovAndrey/ITMOWeb/tree/master/Practice_1)
 
 ## Создание вертуального окружения
 

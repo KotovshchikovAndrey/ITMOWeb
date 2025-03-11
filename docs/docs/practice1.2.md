@@ -1,6 +1,6 @@
 # Практика 1.2. Настройка БД, SQLModel и миграции через Alembic
 
-#### [Ссылка](https://)
+#### [Ссылка](https://github.com/KotovshchikovAndrey/ITMOWeb/tree/master/Practice_2)
 
 ## Установка зависимостей
 

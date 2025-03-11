@@ -1,6 +1,6 @@
 # Практика 1.3. Миграции, ENV, GitIgnore и структура проекта
 
-#### [Ссылка](https://)
+#### [Ссылка](https://github.com/KotovshchikovAndrey/ITMOWeb/tree/master/Practice_3)
 
 ## Настройка миграций
 
