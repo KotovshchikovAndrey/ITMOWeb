@@ -1,0 +1,11 @@
+tables:
+	docker exec postgres psql $(POSTGRES_URL) -c "CREATE TABLE position (\
+		id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY, \
+	 	name VARCHAR(70) UNIQUE NOT NULL \
+	);\
+	CREATE TABLE question (\
+		id INT PRIMARY KEY GENERATED ALWAYS AS IDENTITY, \
+		name VARCHAR(255) UNIQUE NOT NULL, \
+		tag VARCHAR(70) NOT NULL, \
+		chance VARCHAR(4) NOT NULL
+	);"
